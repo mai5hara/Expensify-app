@@ -41,7 +41,7 @@
 
 
 import React from 'react';
-import { shallow } from 'enzyme';	
+// import { shallow } from 'enzyme';	
 import { connect } from 'react-redux';
 import ExpenseForm from './ExpenseForm';
 import { startEditExpense, startRemoveExpense } from '../actions/expenses';
