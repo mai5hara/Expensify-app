@@ -1,4 +1,4 @@
-# Expensify-app
+# Expensify App
 
 This is an expenses app to manage income and expenses.
 
